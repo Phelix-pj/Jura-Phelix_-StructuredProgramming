@@ -1,0 +1,8 @@
+========================================
+         OFFICIAL BUS TICKET             
+========================================
+Passenger: John
+Route:     Kisumu to Nairobi
+Seats:     2C 2D 
+Total Paid: $0
+========================================

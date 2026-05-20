@@ -1,0 +1,8 @@
+========================================
+         OFFICIAL BUS TICKET             
+========================================
+Passenger: Kamau
+Route:     Nakuru to Mombasa
+Seats:     3D 
+Total Paid: $3000
+========================================

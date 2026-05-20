@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1779300263 source:c:\users\admin\onedrive\desktop\eee\2.2\oop\bus booking\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<memory>
+	<limits>
+	<fstream>
+

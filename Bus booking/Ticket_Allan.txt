@@ -1,0 +1,8 @@
+========================================
+         OFFICIAL BUS TICKET             
+========================================
+Passenger: Allan
+Route:     Nakuru to Mombasa
+Seats:     4A 4C 4B 
+Total Paid: $9000
+========================================

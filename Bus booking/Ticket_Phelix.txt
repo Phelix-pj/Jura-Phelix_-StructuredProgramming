@@ -1,0 +1,8 @@
+========================================
+        OFFICIAL BUS TICKET             
+========================================
+Passenger: Phelix
+Route:     Kisumu to Nairobi
+Seats:     5C 5D 
+Total Paid: $1000
+========================================
